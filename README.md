@@ -13,7 +13,7 @@ Cliente precisava monitorar os serviços do sistema TOTVS dele através do siste
         $ ./check_wmi_service -U [USER] -P [PASSWORD] -H [HOST] -S [SERVICE NAME]
 
 ## NAGIOS
-[Nagios](https://www.nagios.org/) é uma ferramenta de monitoramento de código aberto e é distribuída sob a Licença Pública Geral GNU (GNU General Public License, GPL). É usado no [SM](https://sm.seti.com.br/) para fazer o monitoramento de rede e requer dos plugins criado um formato específicopara ele ler.
+[Nagios](https://www.nagios.org/) é uma ferramenta de monitoramento de código aberto e é distribuída sob a Licença Pública Geral GNU (GNU General Public License, GPL). É usado no [SM](https://sm.seti.com.br/) para fazer o monitoramento de rede e requer dos plugins criados um formato específico para ele ler.
 
 - Formato
 
